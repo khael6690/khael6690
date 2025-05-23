@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Raekhandi Yoga Gusmawan</h1>
-<h3 align="center">Back End Developer | #KNTL Kids Need To Learn 🐧</h3>
+<h1 align="center">Hi, I'm Khaerul Umam</h1>
+<h3 align="center">Front End Developer! 🧑🏻‍💻</h3>
 
 <br><br>
 
@@ -8,7 +8,7 @@
 
   <br>
 
-![snake gif](https://github.com/synthever/synthever/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/khael6690/khael6690/blob/main/github-contribution-grid-snake-dark.svg)
 
   <br>
 
